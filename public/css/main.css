@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .haikus {
-    font-size: 18px;
+    font-size: 48px;
     font-style: italic;
     letter-spacing: .8px;
     white-space: pre-wrap;
