@@ -1,5 +1,5 @@
 # Haikus for Mona
-First, ensure you have a setup with node version 12.10
+First, ensure you have a setup with node version 11.10
 
 A basic node / postgres app using an ejs template and a few API endpoints.
 
